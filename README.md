@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=38C2FF&background=000000&center=true&vCenter=true&width=600&lines=%3E+Welcome+to+my+GitHub+profile...!;AI+%26+ML+Enthusiast+;Wordpress+Developer;Game+Developer+)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=40&color=38C2FF&background=000000&center=true&vCenter=true&width=1000&lines=%3E+Welcome+to+my+GitHub+profile...!;AI+%26+ML+Enthusiast+;Wordpress+Developer;Game+Developer+)
 </div>
 
 <h3>👩‍💻 About Me:</h3>
